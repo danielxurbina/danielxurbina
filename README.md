@@ -15,7 +15,3 @@ Hello, I'm Daniel Urbina, a student at NJIT pursuing a degree in Computer Scienc
 - CS 356 - Introduction To Computer Networks
 - IT 202 - Internet Applications
 - IT 302 - Advanced Internet Applications
-
----
-### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielxurbina&theme=elegant&border_radius=45&mode=weekly&card_width=500)](https://git.io/streak-stats)
