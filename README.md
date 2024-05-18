@@ -13,5 +13,7 @@ Hello, I'm Daniel Urbina, a student at NJIT pursuing a degree in Computer Scienc
 - CS 350 - Introduction to Computer Systems
 - CS 351 - Introduction to Cybersecurity
 - CS 356 - Introduction To Computer Networks
+- CS 434 - Advanced Database Systems
+- CS 490 - Guided Design in Software Engineering
 - IT 202 - Internet Applications
 - IT 302 - Advanced Internet Applications
