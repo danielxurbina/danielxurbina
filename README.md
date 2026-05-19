@@ -1,2 +1,2 @@
 ### About Me
-Hello, I'm Daniel Urbina, a senior at NJIT pursuing a degree in Computer Science. I find joy in coding and bringing ideas to life. When I'm not studying or writing code, you can often find me relaxing with my record collection and indulging in my love for music. I'm eager to expand my network, so feel free to reach out! I'm actively seeking opportunities in Software Development and Engineering.
+Hello, I'm Daniel Urbina, a Computer Science graduate from NJIT who enjoys building things and figuring out how they work. I'm always working on a side project, learning something new, or finding a problem worth solving. Feel free to reach out and connect!
